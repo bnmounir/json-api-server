@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "Death Stranding",
+      "description": "a game that nobody knows whats its about",
+      "id": 1
+    },
+    {
+      "title": "Death Star",
+      "description": "A moon like spaceship from darth vader",
+      "id": 2
+    },
+    {
+      "title": "Hello World Edited",
+      "description": "the first thing you write in any programing language WITH EDITED",
+      "id": 4
+    },
+    {
+      "title": "Hello World PAAAAAATCHHHED",
+      "description": "the first thing you write in any programing language PATCCHHHED",
+      "userId": "102528170277908022934",
+      "id": 5
+    },
+    {
+      "title": "stream form",
+      "description": "added a component for just form",
+      "userId": "102528170277908022934",
+      "id": 6
+    }
+  ]
+}
